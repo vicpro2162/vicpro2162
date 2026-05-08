@@ -57,14 +57,6 @@ Currently expanding my knowledge in:
 
 ---
 
-## 🌟 GitHub Highlights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicpro2162&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicpro2162&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 🎨 Creative Side
 
 Beyond the terminal, I express myself through:
