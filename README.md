@@ -68,7 +68,7 @@ When I'm not coding, you'll find me 🎵 **jamming out to music**, 🏃 **poundi
 
 ## 📈 GitHub Activity
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vicpro2162&theme=radical)](https://github.com/vicpro2162)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vicpro2162&theme=radical&hide_border=true)
 
 ---
 
@@ -124,7 +124,7 @@ Let's connect and create something awesome together!
 
 - **💼 LinkedIn**: [Connect with me](https://www.linkedin.com/in/victorien-atsou/)
 - **💌 Email**: [victorienatsou@gmail.com](mailto:victorienatsou@gmail.com)
-- **🌐Portfolio**: [@vicpro2162](https://vicpro2162.github.io/Portfolio_pro)
+- **🌐 Portfolio**: [vicpro2162.github.io/Portfolio_pro](https://vicpro2162.github.io/Portfolio_pro)
 - 💬 **Have a project idea?** Feel free to reach out!
 
 ---
