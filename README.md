@@ -4,6 +4,13 @@
 
 ---
 
+## 📊 Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=vicpro2162&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/vicpro2162?style=social)
+
+---
+
 ## 🎯 About Me
 
 Hey there! I'm **@vicpro2162**, a passionate **Full-Stack Developer** with a flair for creative problem-solving. I love crafting beautiful, functional web experiences while diving deep into backend systems. Currently, I'm building something meaningful at my university while simultaneously leveling up my **cybersecurity** game. 🛡️
@@ -25,6 +32,7 @@ When I'm not coding, you'll find me 🎵 **jamming out to music**, 🏃 **poundi
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Databases 🗄️
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,6 +43,7 @@ When I'm not coding, you'll find me 🎵 **jamming out to music**, 🏃 **poundi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 ### Design & AI 🎨
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -54,6 +63,12 @@ When I'm not coding, you'll find me 🎵 **jamming out to music**, 🏃 **poundi
 - Focus on user experience and data integrity
 
 👉 [Check out my repositories](https://github.com/vicpro2162?tab=repositories) for more!
+
+---
+
+## 📈 GitHub Activity
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vicpro2162&theme=radical)](https://github.com/vicpro2162)
 
 ---
 
@@ -108,7 +123,9 @@ I'm actively seeking opportunities to:
 Let's connect and create something awesome together!
 
 - **💼 LinkedIn**: [Connect with me](https://www.linkedin.com/in/victorien-atsou/)
-- 💌 **Have a project idea?** Feel free to reach out!
+- **💌 Email**: [victorienatsou@gmail.com](mailto:victorienatsou@gmail.com)
+- **🐦 Twitter/X**: [@vicpro2162](https://twitter.com/vicpro2162)
+- 💬 **Have a project idea?** Feel free to reach out!
 
 ---
 
