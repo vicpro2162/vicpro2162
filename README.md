@@ -14,21 +14,26 @@ When I'm not coding, you'll find me 🎵 **jamming out to music**, 🏃 **poundi
 
 ## 💻 Tech Stack
 
-### Frontend Magic ✨
-- **HTML5 & CSS3** - Crafting pixel-perfect layouts
-- **JavaScript** - Bringing interactivity to life
-- Modern frameworks and responsive design enthusiast
+### Languages 🔤
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Backend Powerhouse 🔧
-- **Laravel** - My go-to PHP framework for robust applications
-- **Python** - For scripting, automation, and emerging tech
-- RESTful APIs, Database design, Server optimization
+### Frameworks & Libraries 📦
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Tools & Environment 🛠️
-- Git & GitHub (version control wizard)
-- Database design & optimization
-- Security best practices
-- Responsive & accessible web design
+### Databases & Tools 🛠️
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Security & Best Practices 🔒
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white)
 
 ---
 
