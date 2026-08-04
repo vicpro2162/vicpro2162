@@ -15,7 +15,7 @@
 
 Hey there! I'm **@vicpro2162**, a passionate **Full-Stack Developer** with a flair for creative problem-solving. I love crafting beautiful, functional web experiences while diving deep into backen[...]
 
-When I'm not coding, you'll find me 🎵 **jamming out to music**, 🏃 **pounding the pavement**, 🏀 **hooping on the court**, or 📸 **capturing moments through my lens**. I also have a passi[...]
+When I'm not coding, you'll find me 🎵 **jamming out to music**, 🏃 **pounding the pavement**, 🏀 **hooping on the court**, or 📸 **capturing moments through my lens**. 
 
 ---
 
