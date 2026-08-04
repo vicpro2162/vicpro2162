@@ -126,7 +126,7 @@ Let's connect and create something awesome together!
 
 - **💼 LinkedIn**: [Connect with me](https://www.linkedin.com/in/victorien-atsou/)
 - **💌 Email**: [victorienatsou@gmail.com](mailto:victorienatsou@gmail.com)
-- **🌐 Portfolio**: [vicpro2162.github.io/Portfolio_pro](https://vicpro2162.github.io/Portfolio_pro)
+- **🌐 Portfolio**: [vicpro2162.github.io/Portfolio_pro](https://victorien-atsou.vercel.app)
 - 💬 **Have a project idea?** Feel free to reach out!
 
 ---
