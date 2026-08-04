@@ -13,9 +13,9 @@
 
 ## 🎯 About Me
 
-Hey there! I'm **@vicpro2162**, a passionate **Full-Stack Developer** with a flair for creative problem-solving. I love crafting beautiful, functional web experiences while diving deep into backend systems. Currently, I'm building something meaningful at my university while simultaneously leveling up my **cybersecurity** game. 🛡️
+Hey there! I'm **@vicpro2162**, a passionate **Full-Stack Developer** with a flair for creative problem-solving. I love crafting beautiful, functional web experiences while diving deep into backen[...]
 
-When I'm not coding, you'll find me 🎵 **jamming out to music**, 🏃 **pounding the pavement**, 🏀 **hooping on the court**, or 📸 **capturing moments through my lens**. I also have a passion for **graphic design** – because great code deserves great visuals!
+When I'm not coding, you'll find me 🎵 **jamming out to music**, 🏃 **pounding the pavement**, 🏀 **hooping on the court**, or 📸 **capturing moments through my lens**. I also have a passi[...]
 
 ---
 
@@ -29,6 +29,8 @@ When I'm not coding, you'll find me 🎵 **jamming out to music**, 🏃 **poundi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks & Libraries 📦
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
