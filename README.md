@@ -15,7 +15,7 @@
 
 Hey there! I'm **@vicpro2162**, a passionate **Full-Stack Developer** with a flair for creative problem-solving. I love crafting beautiful, functional web experiences while diving deep into backen[...]
 
-When I'm not coding, you'll find me 🎵 **jamming out to music**, 🏃 **pounding the pavement**, 🏀 **hooping on the court**, or 📸 **capturing moments through my lens**. 
+When I'm not coding, you'll find me 🎵 **jamming out to music**, 🏃 **pounding the pavement**, 🏀 **hooping on the court**, or 📸 **capturing moments through my lens**. I also have a passi[...]
 
 ---
 
@@ -50,6 +50,7 @@ When I'm not coding, you'll find me 🎵 **jamming out to music**, 🏃 **poundi
 ### Design & AI 🎨
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)
 
 ### Security & Best Practices 🔒
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white)
@@ -126,6 +127,7 @@ Let's connect and create something awesome together!
 
 - **💼 LinkedIn**: [Connect with me](https://www.linkedin.com/in/victorien-atsou/)
 - **💌 Email**: [victorienatsou@gmail.com](mailto:victorienatsou@gmail.com)
+- **📌 Pinterest**: [Visit my Pinterest](https://www.pinterest.com/airmon28/)
 - **🌐 Portfolio**: [vicpro2162.github.io/Portfolio_pro](https://victorien-atsou.vercel.app)
 - 💬 **Have a project idea?** Feel free to reach out!
 
